@@ -1,9 +1,9 @@
-# Theoneanddone
-//This project was put together to find the effect that the one-and-done rule had on college basketball recruitment. What i found ws that there are common misconseptions that i will be highlighting below.
+The One-and-Done Rule: Examining Its Impact on College Basketball Recruitment
 
+This project investigates the effects of the one-and-done rule on college basketball recruitment. Below, I address some common misconceptions uncovered in the analysis.
 
-stament) The One-and-done rule has caused college baketball recruits to syay close to home
-Analysis) This was found to  be false based on the data. Pre one-and-done the average distance was 507 and for post it increased to 725
+Statement: The one-and-done rule has caused college basketball recruits to stay closer to home.
+Analysis: This is false according to the data. Before the one-and-done rule, the average distance a recruit traveled to attend college was 507 miles. After the rule was implemented, this distance increased to 725 miles.
 
-Question) Does the nba draft number have an effect on preformance?
-answer) it seems difficult to predict success in a college basketball recruit to the NBA very little correlation 
+Question: Does an NBA draft pick's position predict their performance in the league?
+Answer: The data shows little correlation between a recruit’s draft position and their eventual success in the NBA, making it difficult to predict performance based solely on draft ranking.T
